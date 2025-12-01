@@ -11,3 +11,4 @@ Notes and usage details for understanding-j.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- fix a small wording issue
