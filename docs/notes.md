@@ -13,3 +13,4 @@ Notes and usage details for understanding-j.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
