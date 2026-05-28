@@ -11,3 +11,4 @@ An introduction to the J programming language that gets to the point.
 # drop an unused branch
 # handle the edge case from the last release
 # guard against empty input
+# keep defaults in sync with the manifest
